@@ -1,3 +1,7 @@
+== My changes https://github.com/tomtclai[(tomtclai)]
+
+Completed the tutorial accordingly, this should work with the iOS Client at https://github.com/tomtclai/gs-consuming-rest-ios
+
 ---
 tags: [rest]
 projects: [spring-framework]
